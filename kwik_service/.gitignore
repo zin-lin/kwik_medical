@@ -1,0 +1,7 @@
+/.idea
+*.idea
+*.env
+*/venv
+/venv
+/keys
+

@@ -1,0 +1,6 @@
+flask
+flask-cors
+bcrypt
+blinker
+Flask-SQLAlchemy
+Flask-JWT-Extended

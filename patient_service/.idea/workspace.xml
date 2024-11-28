@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac887e64-6b8a-4734-b665-74f94aa96633" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2o50eYWZ5VFfjRIFHAAkjVAcczn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.patient_service.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/zin/devs/kwikmedical_ws",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="patient_service" type="PythonConfigurationType" factoryName="Python">
+      <module name="patient_service" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac887e64-6b8a-4734-b665-74f94aa96633" name="Changes" comment="" />
+      <created>1730144224662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730144224662</updated>
+      <workItem from="1730144225700" duration="3380000" />
+      <workItem from="1730162520328" duration="1992000" />
+      <workItem from="1730164858371" duration="8000" />
+      <workItem from="1730863428943" duration="14000" />
+      <workItem from="1730864602513" duration="2913000" />
+      <workItem from="1731389264134" duration="1234000" />
+      <workItem from="1731390505507" duration="527000" />
+      <workItem from="1731391077761" duration="639000" />
+      <workItem from="1731392129359" duration="60000" />
+      <workItem from="1731392344488" duration="461000" />
+      <workItem from="1731396442081" duration="407000" />
+      <workItem from="1731397043138" duration="463000" />
+      <workItem from="1731397735044" duration="133000" />
+      <workItem from="1731397881075" duration="29000" />
+      <workItem from="1731397993742" duration="176000" />
+      <workItem from="1731398295034" duration="106000" />
+      <workItem from="1731398619889" duration="104000" />
+      <workItem from="1731470891051" duration="255000" />
+      <workItem from="1731472408305" duration="22000" />
+      <workItem from="1731472672974" duration="9000" />
+      <workItem from="1731472736837" duration="568000" />
+      <workItem from="1731474352771" duration="6000" />
+      <workItem from="1731534339869" duration="424000" />
+      <workItem from="1731535177770" duration="435000" />
+      <workItem from="1731535892085" duration="3346000" />
+      <workItem from="1731559625823" duration="573000" />
+      <workItem from="1731560608528" duration="48000" />
+      <workItem from="1731560850916" duration="476000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/patient_service$patient_service.coverage" NAME="patient_service Coverage Results" MODIFIED="1731391092155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+  </component>
+</project>
